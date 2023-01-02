@@ -1,16 +1,17 @@
-### Hi there 👋, .....I am Moon
-####### I am a Web Developer
-![I am a Web Developer](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/319634765_1227708504450409_7493506872400908681_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGgtRLXc0ioXNjSYEeEY8hJXofK50JoEe5eh8rnQmgR7kiW-SpkyA021WxxMefaHtsb_0im0LbUymx7umm180Gi&_nc_ohc=Q79ePMfXZG0AX-iY0Jm&_nc_ht=scontent.fdac5-1.fna&oh=00_AfBwJBtrmy3UWZm_PAsS8CzBt1bvjZ6553depcnJz78iuQ&oe=63B88020)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahidaahmedmoon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shahidaahmed.moon)  
 
+### Hi there 👋, .....I am Moon
+###### I am a Web Developer
+![I am a Web Developer](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/319634765_1227708504450409_7493506872400908681_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGgtRLXc0ioXNjSYEeEY8hJXofK50JoEe5eh8rnQmgR7kiW-SpkyA021WxxMefaHtsb_0im0LbUymx7umm180Gi&_nc_ohc=Q79ePMfXZG0AX-iY0Jm&_nc_ht=scontent.fdac5-1.fna&oh=00_AfBwJBtrmy3UWZm_PAsS8CzBt1bvjZ6553depcnJz78iuQ&oe=63B88020)
+
 I am a fresh web developer who just started her journey in this path. I am very passionate about learning and sharing my knowledge with others. Right now I am working with PHP (Laravel) . Beside this I am learning WordPress for making a good career in this site.
 
-###Skills:
-🍀PHP
-🍀🍀JS 
-🍀🍀🍀HTML 
-🍀🍀🍀🍀CSS
+###Skills:<br>
+🍀PHP <br>
+🍀🍀JS <br>
+🍀🍀🍀HTML <br>
+🍀🍀🍀🍀CSS <br>
 
 - 🔭 I’m currently working on PHP (Laravel) 
 - 🌱 I’m currently learning WordPress 
