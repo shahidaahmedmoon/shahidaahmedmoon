@@ -11,6 +11,7 @@ I am a fresh graduate who just started her journey in development path. I am ver
 🍀🍀🍀🍀🍀HTML <br>
 🍀🍀🍀🍀🍀🍀CSS <br>
 🍀🍀🍀🍀🍀🍀🍀Bootstrap <br>
+🍀🍀🍀🍀🍀🍀🍀🍀MongoDB <br>
 
 - 🔭 I’m currently working on MERN 
 - 🌱 I’m currently learning WordPress 
